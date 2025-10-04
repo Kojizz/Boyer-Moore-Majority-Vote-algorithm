@@ -276,4 +276,5 @@ Academic project for Algorithm Analysis course.
 
 ## Author
 
-Student A - Pair 3  
+Ahmetov Rasul
+
