@@ -270,6 +270,10 @@ When analyzing your partner's Kadane's Algorithm implementation:
    - Propose specific improvements
    - Measure impact of optimizations
 
+ ## Peer Review
+ Analysis of teammate's Kadane's Algorithm implementation can be found in:
+ - `docs/analysis-report.pdf` - Comprehensive complexity and code review
+
 ## License
 
 Academic project for Algorithm Analysis course.
